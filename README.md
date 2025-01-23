@@ -9,3 +9,16 @@
     </picture>
 
 </div>
+
+<h1 align="center">
+
+![Profile](https://github-widgetbox.vercel.app/api/profile?username=billchoucn&data=followers,repositories,stars,commits)
+
+</h1>
+<table align="center">
+<div align="center">
+    <tr>
+        <td width="50%"  align="center">
+      <img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billchoucn&layout=compact" />
+        </td>
+        <td valign="top" width="50%">
