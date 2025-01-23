@@ -5,6 +5,6 @@
      
 <h1 align="center">
      
-![Profile](https://github-widgetbox.vercel.app/api/profile?username=billchoucn&data=followers,repositories,stars,commits)
+![Profile](https://github-widgetbox.vercel.app/api/profile?username=billchoucn&data=followers,repositories,stars)
 
 </h1>
