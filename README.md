@@ -31,10 +31,6 @@
       <li style="margin-bottom: 12px;">🔒 <strong>零信任安全</strong> - 端到端加密通信</li>
     </ul>
   </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://media.giphy.com/media/3o6Zt6MLZbQ5Q2ZrmY/giphy.gif"  width="300" alt="Feature Demo" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
-  </div>
-</div>
 
  
  
