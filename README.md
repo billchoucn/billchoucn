@@ -35,8 +35,6 @@
     <img src="https://media.giphy.com/media/3o6Zt6MLZbQ5Q2ZrmY/giphy.gif"  width="300" alt="Feature Demo" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
   </div>
 </div>
+
  
-<br>
- 
-🎨 色彩交响曲 
  
