@@ -1,6 +1,6 @@
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="8" style="color: #ff6b6b; font-size: 1.2em; font-family: 'Courier New', monospace; text-shadow: 0 0 5px rgba(255,107,107,0.5);">
-    ✨ Welcome to Aurora Project • 极光视觉盛宴 • 探索前沿科技美学 ✨ 
+    ✨ Welcome to BillChou Space • 极光视觉盛宴 • 探索前沿科技美学 ✨ 
   </marquee>
   
   <h1 style="font-family: 'Helvetica Neue', sans-serif; color: #3a86ff; text-shadow: 2px 2px 4px rgba(58,134,255,0.2);">
@@ -13,8 +13,7 @@
 <br>
  
 <div align="center" style="display: flex; justify-content: center; gap: 15px;">
-  <img src="https://img.shields.io/badge/Version-2.1.0-9cf?style=for-the-badge&logo=starship"  alt="Version">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=open-source-initiative"  alt="License">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"  alt="License">
   <img src="https://img.shields.io/badge/PRs-Welcome-ff69b4?style=for-the-badge&logo=git"  alt="PRs Welcome">
 </div>
  
