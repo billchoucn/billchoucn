@@ -1,10 +1,10 @@
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="8" style="color: #ff6b6b; font-size: 1.2em; font-family: 'Courier New', monospace; text-shadow: 0 0 5px rgba(255,107,107,0.5);">
-    ✨ Welcome to BillChou Space • 极光视觉盛宴 • 探索前沿科技美学 ✨ 
+    ✨ Welcome to BillChou Space • 探索 • 永无止境 ✨ 
   </marquee>
   
   <h1 style="font-family: 'Helvetica Neue', sans-serif; color: #3a86ff; text-shadow: 2px 2px 4px rgba(58,134,255,0.2);">
-    🌈 Aurora - 极光视觉系统 
+    🌈 BillChou SPACE 
   </h1>
   
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif"  width="600" alt="Aurora Banner" style="border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
