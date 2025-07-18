@@ -18,19 +18,23 @@
 </div>
  
 <br>
- 
-✨ 核心特性 
- 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #495057; line-height: 1.8; list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 12px;">🎨 <strong>动态色彩系统</strong> - 基于HSL的智能配色引擎</li>
-      <li style="margin-bottom: 12px;">🚀 <strong>量子渲染技术</strong> - 60fps流畅动画体验</li>
-      <li style="margin-bottom: 12px;">🌐 <strong>自适应布局</strong> - 完美适配所有设备</li>
-      <li style="margin-bottom: 12px;">🧠 <strong>AI美学引擎</strong> - 自动生成视觉平衡的界面</li>
-      <li style="margin-bottom: 12px;">🔒 <strong>零信任安全</strong> - 端到端加密通信</li>
-    </ul>
-  </div>
 
- 
- 
+
+<div align="center">
+
+  <div class="poem-container">
+    <h1 class="poem-title">青云志</h1>
+    <div class="poem-content">
+      <p class="poem-line fade-in" style="animation-delay: 0.1s">身处低谷不自弃，我命由我不由天。</p>
+      <p class="poem-line fade-in" style="animation-delay: 0.2s">无人扶我青云志，我自踏雪至山巅。</p>
+      <p class="poem-line fade-in" style="animation-delay: 0.3s">若是命中无此运，亦可孤身登昆仑。</p>
+      <p class="poem-line fade-in" style="animation-delay: 0.4s">红尘赠我三尺剑，酒换瘦马一世街。</p>
+      <p class="poem-line fade-in" style="animation-delay: 0.5s">世人朝路乃绝涧，独见众生止步前。</p>
+      <p class="poem-line fade-in" style="animation-delay: 0.6s">海到尽头天作岸，山登绝顶我为峰。</p>
+      <p class="poem-line fade-in" style="animation-delay: 0.7s">如若东山能再起，大鹏展翅九万里。</p>
+      <p class="poem-line fade-in" style="animation-delay: 0.8s">一入红尘梦易真，一朝悟透心境名。</p>
+      <p class="poem-line fade-in" style="animation-delay: 0.9s">一朝悟道见真我，昔日枷锁皆云烟。</p>
+      <p class="poem-line fade-in" style="animation-delay: 1.0s">天门将至百运开，拂尘轻笑问仙来。</p>
+      <p class="poem-line fade-in" style="animation-delay: 1.1s">何须扶我青云志，我自凌云至山巅！</p>
+   </div>
+</div>
